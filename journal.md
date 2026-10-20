@@ -1,5 +1,11 @@
 # PDE Journal
 
+## Week 6 (2026-10-19 to 2026-10-23)
+- 
+
+## Week 5 (2026-10-12 to 2026-10-16)
+- Present Sprint 1 to PDE Class
+
 ## Week 4 (2026-10-05 to 2026-10-09)
 - Prepare Slides for the PDE Sprint 1
 - Initiate dissertation template in repo
