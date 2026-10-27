@@ -1,7 +1,12 @@
 # PDE Journal
 
+## Week 7 (2026-10-26 to 2026-10-30)
+- Prepare for PDE Sprint 2 presentation
+- Continue reading selected papers from the literature review
+
 ## Week 6 (2026-10-19 to 2026-10-23)
-- 
+- Starting exaustive literature review on the 3 Strands of the SoA: ETL/Pipelines, RCA/Lineage, Medical/OMOP
+- Selecting relevant papers and analysing them
 
 ## Week 5 (2026-10-12 to 2026-10-16)
 - Present Sprint 1 to PDE Class
